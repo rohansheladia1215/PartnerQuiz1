@@ -1,3 +1,4 @@
+ main
 public class Main {
     
     @FunctionalInterface
@@ -40,5 +41,9 @@ public class Main {
             number.printNum(result);
             number.printNum(result2);
 
+
+public class main{
+    public static void main(String[] args){
+        //Rohan and Kairav
     }
 }
